@@ -1,4 +1,4 @@
-import 'package:flutter_keyboard_visibility/flutter_keyboard_visibility.dart'
+import 'package:flutter_keyboard_visibility_temp_fork/flutter_keyboard_visibility_temp_fork.dart'
     as fkv;
 import 'package:keyboard_attachable/src/visibility/keyboard_visibility_controller.dart';
 
